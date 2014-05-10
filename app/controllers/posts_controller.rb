@@ -79,5 +79,4 @@ class PostsController < ApplicationController
         name == "admin" && password == "admin1"
       end
     end
-    end
 end
